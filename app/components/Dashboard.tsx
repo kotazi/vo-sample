@@ -30,7 +30,7 @@ export default function Dashboard() {
     labels: ["1月", "2月", "3月", "4月", "5月", "6月"],
     datasets: [
       {
-        label: "売上 (万円)",
+        label: "売上 (億円)",
         data: data,
         backgroundColor: "rgba(75, 192, 192, 0.6)",
       },
